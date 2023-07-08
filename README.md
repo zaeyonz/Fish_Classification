@@ -1,6 +1,6 @@
 # Fish_distribution
 
-numpy '\r'
+numpy
 KNeighbors algorithm 
 Linear Regression
 pandas
